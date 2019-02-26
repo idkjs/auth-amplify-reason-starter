@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "chatt-20190213162638-authRole",
+            "UnauthRoleArn": "arn:aws:iam::073051392232:role/chatt-20190213162638-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::073051392232:role/chatt-20190213162638-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "chatt-20190213162638-deployment",
+            "UnauthRoleName": "chatt-20190213162638-unauthRole",
+            "StackName": "chatt-20190213162638",
+            "StackId": "arn:aws:cloudformation:eu-west-1:073051392232:stack/chatt-20190213162638/c1d6df10-2fa3-11e9-a43a-0a1f01fad44c"
+        },
+        "categories": {
+            "auth": {
+                "auth": {}
+            }
+        }
+    }
+}
